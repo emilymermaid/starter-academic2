@@ -1,5 +1,5 @@
 ---
-title: "\“Let Me Ask Them to Clarify If You Don't Want To\”\—A Clarification Agent for Nonnative Speakers"
+title: "“Let Me Ask Them to Clarify If You Don't Want To”—A Clarification Agent for Nonnative Speakers"
 authors:
 - Duan, W. , \ Hwang, S. Y., \ Yamashita, N. \& Fussell, S. R.
 date: "2018-01-01T00:00:00Z"
